@@ -1,2 +1,2 @@
 # M300
-TBZ Modul 300
+TBZ Modul 300.
